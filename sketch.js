@@ -10,8 +10,8 @@ function draw() {
   let sizeX = 30;
   let posY = 30;
 
-  for (let i = 0; i < 25; i++) {
-    for (let j = 0; j < 25; j++) {
+  for (let i = 0; i < 45; i++) {
+    for (let j = 0; j < 45; j++) {
       stroke(58, 100, 225);
       fill(0, 0, 255, 50);
 
